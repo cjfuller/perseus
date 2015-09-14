@@ -31,6 +31,7 @@ _.each([
     require("./widgets/passage-ref-target.jsx"),
     require("./widgets/plotter.jsx"),
     require("./widgets/radio.jsx"),
+    require("./widgets/reaction-diagram.jsx"),
     require("./widgets/sequence.jsx"),
     require("./widgets/simulator.jsx"),
     require("./widgets/simple-markdown-tester.jsx"),
